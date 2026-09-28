@@ -151,10 +151,10 @@ TREE_STOCK
 
 ## Video de sustentación
 
-[Ver video de sustentación](PEGAR_AQUI_EL_ENLACE_DEL_VIDEO)
+https://drive.google.com/file/d/1eHKEb6k4roM15-LnWWzFQ1tDiEtUzTrB/view?usp=sharing
 
 ## Repositorio
 
 Repositorio público de GitHub:
 
-[Ver repositorio en GitHub](PEGAR_AQUI_EL_ENLACE_DEL_REPOSITORIO)
+https://github.com/J4nus29/TREE_STOCK
